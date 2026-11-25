@@ -33,7 +33,7 @@ body {
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
-    background-color: rgb(201, 238, 201);
+    background-color: rgb(113, 192, 238);
 }
 
 a {
@@ -216,7 +216,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/OIP.webp);
+    background-image: url(../images/OIP2.webp);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -238,7 +238,7 @@ button {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #fff;
+    color: #eb6c6c;
     font-size: 18px;
     text-transform: uppercase;
     padding: 10px 20px 10px 20px;
@@ -304,7 +304,7 @@ button {
 .started_text a {
     width: 100%;
     float: left;
-    background-color: #f0b548;
+    background-color: #f04848;
     padding: 8px 10px;
     color: #fafafa;
     text-align: center;
